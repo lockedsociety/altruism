@@ -2,9 +2,8 @@
 
 The escape from the rotten reality.
 
-## Guides
+## Posture
 
-- [Posture](guides/posture.md)
-
+Fix your posture into a good one.
 
 &copy; 2022 Altruism
