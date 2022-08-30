@@ -17,11 +17,22 @@ Now that I have your attention, lets get started !
 
 ## Guides
 
-- [Posture](guides/posture.md)
-- [Running](guides/running.md)
-- [Hairstyle](guides/hairstyle.md)
-- [OCD](guides/ocd.md)
-- [Addiction](guides/addiction.md)
+A guide to overcome various negative habits and implement good ones.
 
+- Physical Health
+    - [Posture](guides/posture.md)
+    - [Running](guides/running.md) **not complete**
+    - [Flexibility](guides/flexibility.md) **not complete**
+- Mental Health
+    - [OCD](guides/ocd.md) **not complete**
+    - [Depression](guides/depression.md) **not complete**
+    - [Anxiety](guides/anxiety.md) **not complete**
+    - [Despair](guides/despair.md) **not complete**
+- Addiction
+    - [Social Media](guides/addiction-social.md) **not complete**
+- Productivity
+    - [Time management](guides/productivity.md) **not complete**
+- Fashion
+    - [Hairstyle](guides/hairstyle.md)  
 
 &copy; 2022 LockedSociety
