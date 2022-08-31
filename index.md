@@ -25,7 +25,10 @@ Now, that I have your attention, lets get started !!!
 
 ## Getting started
 
+Let's get started with reading these fundamental topics.
+
 - [Choices and Consequences](choices.md)
+- [Purpose](purpose.md)
 
 ## Guides
 
