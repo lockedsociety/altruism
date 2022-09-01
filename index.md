@@ -2,8 +2,8 @@
 
 The escape from the loop of self destruction.
 
-Imagine a person. A person with dream, passion, vision, goal; his aim
-is sky reaching. Everyday starting from waking up to going to sleep,
+Imagine a person, a person with dreams, passion, vision and goal; his aim
+is sky-high. Everyday starting from waking up to going to sleep,
 all he does is watching reels, yt shorts, memes, game livestream, 
 listen to music. And then be depressed for some time. Because he didn't 
 do anything that would help him to acheive those goal. Whatever he did, 
@@ -19,7 +19,7 @@ we will guide you. Our team has arranged for you all the resources that
 you could ever want, from physical fitness to mental health to fashion,
 we are here for you every step of the way. In return, we want nothing but 
 your cooperation and your promise to change. Promise yourself and never look back.
-work for a good future, and live your life to the fullest.
+Work for a good future and live your life to the fullest.
 
 Now, that I have your attention, lets get started !!!
 
