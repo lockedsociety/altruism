@@ -36,8 +36,9 @@ A guide to overcome various negative habits and implement good ones.
 
 - Physical Health
     - [Posture](guides/posture.md)
-    - [Running](guides/running.md) **not complete**
+    - [Running](guides/running.md)
     - [Flexibility](guides/flexibility.md) **not complete**
+    - [Calisthenics](guides/calisthencis.md) **not complete**
 - Mental Health
     - [OCD](guides/ocd.md) **not complete**
     - [Depression](guides/depression.md) **not complete**
