@@ -51,5 +51,16 @@ A guide to overcome various negative habits and implement good ones.
     - [Time management](guides/productivity.md) **not complete**
 - Fashion
     - [Hairstyle](guides/hairstyle.md)  
+    - [Shirts and T-shirts](guides/shirts.md) **not complete**
+
+## Join
+
+We need the following type of people to write articles.
+
+- People who previously were in those state and got themselves out of that.
+- Physical health exepert.
+- Mental health exepert.
+- Fashionista.
+
 
 &copy; 2022 LockedSociety
