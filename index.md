@@ -25,7 +25,7 @@ Now, that I have your attention, lets get started !!!
 
 ## Getting started
 
-Let's get started with reading these fundamental topics.
+Let's get started by reading these fundamental topics.
 
 - [Choices and Consequences](choices.md)
 - [Purpose](purpose.md)
@@ -48,6 +48,7 @@ A guide to overcome various negative habits and implement good ones.
     - [Social Media](guides/addiction-social.md) **not complete**
 - Productivity
     - [Time management](guides/productivity.md) **not complete**
+    - [Procastination](guides/productivity.md) **not complete**
 - Fashion
     - [Hairstyle](guides/hairstyle.md)  
 
