@@ -6,4 +6,6 @@ Listed below are some articles to get you started.
 
 [Different hairstyles and what messages that they convey](https://www.askmen.com/fashion/fashiontip_600/683_what-your-hairstyle-says-about-you.html)
 
+[The Absolute Best Hair Products for Men](https://www.gq.com/story/best-hair-and-grooming-products-for-men)
+
 &copy; 2022 Altruism
