@@ -38,17 +38,17 @@ A guide to overcome various negative habits and implement good ones.
     - [Posture](guides/posture.md)
     - [Running](guides/running.md)
     - [Flexibility](guides/flexibility.md) **not complete**
-    - [Calisthenics](guides/calisthencis.md) **not complete**
+    - [Calisthenics](guides/calisthenics.md)
 - Mental Health
-    - [OCD](guides/ocd.md) **not complete**
-    - [Depression](guides/depression.md) **not complete**
     - [Anxiety](guides/anxiety.md) **not complete**
+    - [Depression](guides/depression.md) **not complete**
     - [Despair](guides/despair.md) **not complete**
+    - [OCD](guides/ocd.md) **not complete**
 - Addiction
     - [Social Media](guides/addiction-social.md) **not complete**
 - Productivity
-    - [Time management](guides/productivity.md) **not complete**
     - [Procastination](guides/productivity.md) **not complete**
+    - [Time management](guides/productivity.md) **not complete**
 - Fashion
     - [Hairstyle](guides/hairstyle.md)  
 
