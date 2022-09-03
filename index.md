@@ -29,6 +29,7 @@ Let's get started by reading these fundamental topics.
 
 - [Choices and Consequences](choices.md)
 - [Purpose](purpose.md)
+- [Lonliness](purpose.md) **not completed**
 
 ## Guides
 
@@ -53,6 +54,10 @@ A guide to overcome various negative habits and implement good ones.
     - [Hairstyle](guides/hairstyle.md)  
     - [Attire](guides/shirts.md) **not complete**
 
+## Books
+
+These are some good books to read.
+
 ## Join
 
 We need the following type of people to write articles.
@@ -61,6 +66,5 @@ We need the following type of people to write articles.
 - Physical health exepert.
 - Mental health exepert.
 - Fashionista.
-
 
 &copy; 2022 LockedSociety
