@@ -51,7 +51,7 @@ A guide to overcome various negative habits and implement good ones.
     - [Time management](guides/productivity.md) **not complete**
 - Fashion
     - [Hairstyle](guides/hairstyle.md)  
-    - [Shirts and T-shirts](guides/shirts.md) **not complete**
+    - [Attire](guides/shirts.md) **not complete**
 
 ## Join
 
