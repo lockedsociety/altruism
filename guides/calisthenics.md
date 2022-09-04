@@ -1,6 +1,6 @@
 # Calisthenics
 
-Calisthenics is efficient way to make your body fit and gain core strength.
+If you dont have access to the gym, or you are interested in becoming more atheletic rather than mascular, Calisthenics whould be best fir for the job.
 
 ## Resources
 
