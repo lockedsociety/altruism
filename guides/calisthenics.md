@@ -1,6 +1,7 @@
 # Calisthenics
 
-If you dont have access to the gym, or you are interested in becoming more atheletic rather than mascular, Calisthenics whould be best fir for the job.
+If you dont have access to the gym, or you are interested in becoming more atheletic rather than mascular, you will love calisthenics.
+Calisthenics promote strength, endurance, flexibility, and coordination and augment the body's general well-being by placing controllable, regular demands upon the cardiovascular system.
 
 ## Resources
 
