@@ -29,7 +29,7 @@ Let's get started by reading these fundamental topics.
 
 - [Choices and Consequences](choices.md)
 - [Purpose](purpose.md)
-- [Lonliness](purpose.md) **not completed**
+- [Loneliness](purpose.md) **not completed**
 
 ## Guides
 
@@ -56,13 +56,17 @@ A guide to overcome various negative habits and implement good ones.
 
 ## Books
 
-These are some good books to read.
+Here is list of books that will help you.
+
+- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+  -Book by James Clear
+- 12 Rules for Life: An Antidote to Chaos -Book by Jordan Peterson
 
 ## Join
 
-We need the following type of people to write articles.
+We need the following type of people to write articles for us.
 
-- People who previously were in those state and got themselves out of that.
+- People who previously were in those state and got themselves out of it.
 - Physical health exepert.
 - Mental health exepert.
 - Fashionista.
