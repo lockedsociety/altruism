@@ -41,7 +41,7 @@ A guide to overcome various negative habits and implement good ones.
     - [Flexibility](guides/flexibility.md) **not complete**
     - [Calisthenics](guides/calisthenics.md)
 - Mental Health
-    - [Anxiety](guides/anxiety.md) **not complete**
+    - [Anxiety](guides/anxiety.md)
     - [Depression](guides/depression.md) **not complete**
     - [Despair](guides/despair.md) **not complete**
     - [OCD](guides/ocd.md) **not complete**
