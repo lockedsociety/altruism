@@ -42,7 +42,7 @@ A guide to overcome various negative habits and implement good ones.
     - [Calisthenics](guides/calisthenics.md)
 - Mental Health
     - [Anxiety](guides/anxiety.md)
-    - [Depression](guides/depression.md) **not complete**
+    - [Depression](guides/depression.md) 
     - [Despair](guides/despair.md) **not complete**
     - [OCD](guides/ocd.md) **not complete**
 - Addiction
