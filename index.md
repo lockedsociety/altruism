@@ -48,7 +48,7 @@ A guide to overcome various negative habits and implement good ones.
 - Addiction
     - [Social Media](guides/addiction-social.md) **not complete**
 - Productivity
-    - [Procastination](guides/productivity.md) **not complete**
+    - [Procastination](guides/procastination.md) 
     - [Time management](guides/productivity.md) **not complete**
 - Fashion
     - [Hairstyle](guides/hairstyle.md)  
