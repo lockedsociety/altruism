@@ -49,7 +49,7 @@ A guide to overcome various negative habits and implement good ones.
     - [Social Media](guides/addiction-social.md) **not complete**
 - Productivity
     - [Procastination](guides/procastination.md) 
-    - [Time management](guides/productivity.md) **not complete**
+    - [Time management](guides/time.md)
 - Fashion
     - [Hairstyle](guides/hairstyle.md)  
     - [Attire](guides/shirts.md) **not complete**
@@ -59,8 +59,7 @@ A guide to overcome various negative habits and implement good ones.
 
 Here is list of books that will help you.
 
-- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
-  -Book by James Clear
+- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones Book by James Clear
 - 12 Rules for Life: An Antidote to Chaos -Book by Jordan Peterson
 
 ## Join
