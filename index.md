@@ -53,6 +53,7 @@ A guide to overcome various negative habits and implement good ones.
 - Fashion
     - [Hairstyle](guides/hairstyle.md)  
     - [Attire](guides/shirts.md) **not complete**
+    - [YT channels](guides/fashion-yt.md)
 
 ## Books
 
