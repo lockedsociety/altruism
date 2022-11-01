@@ -61,6 +61,8 @@ Here is list of books that will help you.
 
 - Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones Book by James Clear
 - 12 Rules for Life: An Antidote to Chaos -Book by Jordan Peterson
+- Deep Work by Cal Newport
+
 
 ## Join
 
